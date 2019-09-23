@@ -1,6 +1,6 @@
 +++
 fragment = "contact"
-#disabled = true
+#disabled = false
 date = "2017-09-10"
 weight = 1100
 #background = "light"

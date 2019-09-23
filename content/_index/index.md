@@ -1,6 +1,6 @@
 +++
 url = "/"
-title = "Syna Theme"
-date = "2017-09-07"
-description = "Open Source Theme from Okkur for your next project"
+title = "SeamlessAccess"
+date = "2019-07-01"
+description = "We offer seamless access. You get research as it should be."
 +++
