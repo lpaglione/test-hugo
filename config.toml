@@ -1,8 +1,9 @@
 # Site settings
-baseurl = "/"
+baseurl = "lpaglione.github.io/test-hugo"
 languageCode = "en-us"
 title = "SeamlessAccess.org"
 theme = "hugo-hero-theme"
+publishDir = "docs"
 enableGitInfo = true
 version = "0.15.0"
 
